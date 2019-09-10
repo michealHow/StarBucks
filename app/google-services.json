@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "430694463788",
+    "firebase_url": "https://starbucks-95340.firebaseio.com",
+    "project_id": "starbucks-95340",
+    "storage_bucket": "starbucks-95340.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430694463788:android:009b15d04172c121",
+        "android_client_info": {
+          "package_name": "com.example.starbucks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430694463788-ecesdufgi9oal0bvda8u4n89tn0rjv5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.starbucks",
+            "certificate_hash": "eeecf602132c4b20a2039b4b801c1eaf399ba2f6"
+          }
+        },
+        {
+          "client_id": "430694463788-8ihrajgrv3palmqa6gm4b4sjpmc6dget.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGjhL-TwV935lbytSSRNt1Cf4mIRZCmN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430694463788-8ihrajgrv3palmqa6gm4b4sjpmc6dget.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
